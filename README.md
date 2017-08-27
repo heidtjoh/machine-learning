@@ -4,4 +4,4 @@ This repository contains project in the field of machine learning. I completed t
 <br/>
 <br/>
 <br/>
-![alt text](https://d125fmws0bore1.cloudfront.net/assets/udacity_share-317a7f82552763598a5c91e1550b7cd83663ce02d6d475d703e25a873cd3b574.png)
+![alt text](https://lh3.googleusercontent.com/PWyeYz9cpqhGoEFx47X2VKlSk6btXVUuuu1GUd86FdGzySI4_rUkinUGJuLe-VlultTKZkI0fr4oJitYQew=s0)
