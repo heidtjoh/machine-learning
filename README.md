@@ -4,4 +4,4 @@ This repository contains project in the field of machine learning. I completed t
 <br/>
 <br/>
 <br/>
-![udacity be in demand](http://blog.udacity.com/wp-content/uploads/2016/05/Facebook_BeInDemand-1024x379.png)
+![udacity be in demand](http://1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/Facebook_BeInDemand-1024x379.png)
