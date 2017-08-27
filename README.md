@@ -4,4 +4,4 @@ This repository contains project in the field of machine learning. I completed t
 <br/>
 <br/>
 <br/>
-![alt text](https://lh3.googleusercontent.com/PWyeYz9cpqhGoEFx47X2VKlSk6btXVUuuu1GUd86FdGzySI4_rUkinUGJuLe-VlultTKZkI0fr4oJitYQew=s0)
+![alt text](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAARmAAAAJGU4MGY3OTUzLTNhMTEtNGU1OC04NjRmLTE1ODc0ZmM1ODNmYg.jpg)
